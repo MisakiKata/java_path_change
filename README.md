@@ -4,7 +4,7 @@
 
 需要一开始就设置JAVA_HOME等，以修改JAVA_HOME来配置变量。
 
-![image-20210712120423845](F:/typora文档/typroa图像/README.assets/image-20210712120423845.png)
+![image-20210712120423845](./image/image-20210712120423845.png)
 
 因为修改注册表来实现修改环境变量，所以请求了UAC权限提醒。
 
